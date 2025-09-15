@@ -1,5 +1,4 @@
 VENKATESH
-Honnakaluve
 Bengalure
 9035615310
 peddu2004@gmail.com
@@ -21,8 +20,6 @@ Programming Languages: Python, Java, C++
 Web Development: HTML, CSS
 Data Analysis: SQL
 Software Development: Git, GitHub, Agile Methodologies
-Networking Concepts: Routing, OSPF, RIP, HTTP, TCP/IP
-Embedded Systems: Sensor interfacing, sound and automotive sensors
 
 Projects
 Personal Portfolio Website
